@@ -86,7 +86,6 @@ section ul {
 
 section ul li {
     transition: transform .3s;
-
 }
 
 section ul li:hover {
@@ -102,6 +101,11 @@ section ul li:hover {
     width: 70px;
     border-radius: 50%;
     border: 1px solid #443E54;
+}
+
+.social-list {
+    padding-right: 6px;
+    gap: 6px;
 }
 
 /* Efeitos de Animação */
